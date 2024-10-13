@@ -45,9 +45,7 @@ const FrontPage = () => {
         <h2>Контакти</h2>
         <p>Свържете се с мен на <a href="tel:+359876330336"> 0876330336 </a> или <a href="mailto:lesnamatematika7@gmail.com">lesnamatematika7@gmail.com</a> за повече информация и записвания.</p>
     </footer>
-      <Link to="/quiz">
-         <button>Започни куиз</button>
-      </Link>
+
     </div>
   );
 }
