@@ -1,0 +1,11 @@
+//TODO
+
+- get all simple questions from prev tests
+- think of a way to have questions with images
+- count score
+- reset score
+- get random set of questions, not random on each next question
+- think about 10th grade math tests
+
+BUlgarian Language Test:
+- get all questions from previous tests for 7th grade, 10th grade and 12th grage
